@@ -20,4 +20,5 @@ Responsibilities and achievements:
  - Mathematics, Physics, and Philosophy amateur, member of [New Acropolis](https://www.acropolis.org/en/)
  - Explorer of programming languages and trending technologies
    - Latest discoveries: Elixir, Go, Docker, Ansible
+ - Home automation with RaspberryPi
  - Personal development
