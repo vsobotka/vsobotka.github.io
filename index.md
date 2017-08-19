@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Václav Sobotka
+## Experience
+### ApSo s.r.o., 09/2014 - present
+Position: Programmer Analyst
 
-You can use the [editor on GitHub](https://github.com/vsobotka/vsobotka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Responsibilities and achievements:
+ 
+ - [Lead backend programmer](https://en.wikipedia.org/wiki/Lead_programmer) in OpenEdge ABL for projects with Android and web frontend
+ - Initiation of VCS usage (git)
+ - Setup and administration of GitLab
+ - Tools development, e.g. [OpenEdge ABL language support for VS Code](https://marketplace.visualstudio.com/items?itemName=zvg.vscode-oeabl)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal traits and interests
+ - Lazy
+ - Inovative
+ - Perfectionist
+ - Seeking responsibility
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsobotka/vsobotka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Interests
+ - [Passionate reader](https://www.goodreads.com/user/show/54880174-v-clav-sobotka)
+ - Mathematics, Physics, and Philosophy amateur, member of [New Acropolis](https://www.acropolis.org/en/)
+ - Explorer of programming languages and trending technologies
+   - Latest discoveries: Elixir, Go, Docker, Ansible
+ - Personal development
