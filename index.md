@@ -1,4 +1,3 @@
-# Václav Sobotka
 ## Experience
 ### ApSo s.r.o., 09/2014 - present
 Position: Programmer Analyst
