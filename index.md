@@ -18,7 +18,6 @@ Responsibilities and achievements:
 ## Interests
  - [Passionate reader](https://www.goodreads.com/user/show/54880174-v-clav-sobotka)
  - Mathematics, Physics, and Philosophy amateur, member of [New Acropolis](https://www.acropolis.org/en/)
- - Explorer of programming languages and trending technologies
-   - Latest discoveries: Elixir, Go, Docker, Ansible
  - Home automation with RaspberryPi
- - Personal development
+ - Explorer of programming languages and trending technologies
+   - My latest discoveries include Elixir, Go, Docker, and Ansible
