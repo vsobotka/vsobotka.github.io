@@ -1,5 +1,5 @@
 ## Experience
-### ApSo s.r.o., 09/2014 - present
+### ApSo s.r.o., 09/2014 - 10/2017
 Position: Programmer Analyst
 
 Responsibilities and achievements:
@@ -8,6 +8,9 @@ Responsibilities and achievements:
  - Initiation of VCS usage (git)
  - Setup and administration of GitLab
  - Tools development, e.g. [OpenEdge ABL language support for VS Code](https://marketplace.visualstudio.com/items?itemName=zvg.vscode-oeabl)
+
+### Quadient s.r.o., 11/2017 - present
+Position: Software Developer
 
 ## Personal traits and interests
  - Lazy
