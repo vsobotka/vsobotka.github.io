@@ -32,16 +32,8 @@ Position: Software Developer (part-time)
  - Mathematics, Physics, and Philosophy amateur
  - Entering the world of value investing since 2017
  - Explorer of programming languages and trending technologies
+
 ### Vertical Bar
-{% highlight julia %}
-using Vega
-
-x = [1, 2, 3, 4, 5]
-y = [1, 2, 3, 2, 1]
-
-barplot(x = x, y = y)
-{% endhighlight %}
-
  <div id="vis"></div>
 
  <script type="text/javascript">
