@@ -11,7 +11,9 @@ Responsibilities and achievements:
 ### [Quadient s.r.o.](https://www.quadient.com/), 11/2017 - present
 Position:
  - Software Developer (11/2017 - 11/2018)
- - Product Owner/Delivery Manager/Project Manager (12/2018 - present)
+ - Product Owner/Delivery Manager/Project Manager
+   - 12/2018 - 10/2020 full-time
+   - 11/2020 - present part-time
 
 Responsibilities and achievements:
  - Docker/Git/Linux evangelist
