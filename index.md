@@ -22,6 +22,9 @@ Responsibilities and achievements:
 ### [Sim Companies s.r.o.](https://www.simcompanies.com/), 01/2020 - present
 Position: Software Developer (part-time)
 
+Responsibilities and achievements:
+- Development, release, and support of the [iOS app](https://apps.apple.com/us/app/id1502566059)
+
 ## Personal traits and interests
  - Lazy
  - Innovative
