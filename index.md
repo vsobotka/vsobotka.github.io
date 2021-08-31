@@ -8,12 +8,12 @@ Responsibilities and achievements:
  - Setup and administration of GitLab server
  - Tools development, e.g. [OpenEdge ABL language support for VS Code](https://marketplace.visualstudio.com/items?itemName=zvg.vscode-oeabl)
 
-### [Quadient s.r.o.](https://www.quadient.com/), 11/2017 - present
+### [Quadient s.r.o.](https://www.quadient.com/), 11/2017 - 08/2021
 Position:
  - Software Developer (11/2017 - 11/2018)
  - Product Owner/Delivery Manager/Project Manager
    - 12/2018 - 10/2020 full-time
-   - 11/2020 - present part-time
+   - 11/2020 - 08/2021 part-time
 
 Responsibilities and achievements:
  - Docker/Git/Linux evangelist
@@ -24,6 +24,7 @@ Position: Software Developer (part-time)
 
 Responsibilities and achievements:
 - Development, release, and support of the [iOS app](https://apps.apple.com/us/app/id1502566059)
+- Development and maintenance of the main web app
 
 ## Personal traits and interests
  - Lazy
