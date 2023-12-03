@@ -20,11 +20,15 @@ Responsibilities and achievements:
  - Responsible for project with manpower 40+ people (20 DEVs)
 
 ### [Sim Companies s.r.o.](https://www.simcompanies.com/), 01/2020 - present
-Position: Software Developer (part-time)
+Position:
+ - Software Developer
+    - 01/2020 - 08/2021 part-time
+    - 09/2021 - present full-time
 
 Responsibilities and achievements:
 - Development, release, and support of the [iOS app](https://apps.apple.com/us/app/id1502566059)
-- Development and maintenance of the main web app
+- Development, maintenance, and support of the main web app (React + Django)
+- Game design
 
 ## Personal traits and interests
  - Lazy
